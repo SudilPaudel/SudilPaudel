@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SudilPaudel
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning CS50's Web Programming With Python And Javascript.
-- 📫 How to reach me: Instagram (@paudelsudil)
+- 👀 I’m a Full Stack Web Developmer.
+- 🌱 I have almost 1 year of related web development experience.
+
 
 <!---
 SudilPaudel/SudilPaudel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
