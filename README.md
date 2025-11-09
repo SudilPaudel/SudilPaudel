@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SudilPaudel
-- 👀 I’m a Full Stack Web Developmer.
+- 👀 I’m a Full Stack Web Developer.
 - 🌱 I have almost 1 year of related web development experience.
 
 
