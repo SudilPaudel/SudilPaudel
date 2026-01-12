@@ -15,6 +15,3 @@ I’m a Full-Stack Web Developer passionate about building clean, scalable, and 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SudilPaudel&limit=5&theme=dark&combine_all_yearly_contributions=true)
